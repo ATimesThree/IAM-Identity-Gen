@@ -2,7 +2,7 @@
 Made for QLite to create and look up IAM hashes easily and convert from the QLite base-27 to base-10
 
 
-*********
+---------
 This project was inspired by the recent QLITE project posted by microhash#4229 (discord).
 What you can do with this project;
   - Paste a hash and an index code to create your customized hash (related to the IAM Identity of QLITE)
@@ -13,4 +13,5 @@ Note that my CSS and HTML skills are very basic as I'm more into JS.
 
 Donations are always welcome:
 IOTA: GCZOLCYBKBDNHYGIFQJHYKSDTDWRTOFYTJQLHP9H9JZKJHHXHYOEWIUILTP9LTNP9WMDB9DCHLIDRIVG9KRMS9JJFD
-***End***
+
+---End---
